@@ -1,0 +1,9 @@
+.Footer{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #1d3c45;
+}
+
+.Footer a{
+    text-decoration: none;
+}
